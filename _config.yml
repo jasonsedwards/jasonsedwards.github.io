@@ -20,7 +20,7 @@ footer-links:
   email: jason@stuart-edwards.info
   linkedin: jasonedwards88
   github: jasonsedwards/jasonsedwards.github.io
-  rss: # just type anything here for a working RSS icon
+  rss: rss
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
