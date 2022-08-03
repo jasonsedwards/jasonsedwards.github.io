@@ -7,7 +7,7 @@ Putting this here so I can refer myself and others back to this in the future.
 
 ## Creating a Pull Request ##
 
-> :warning: **We treat  the master / main branch as our source of truth and it reflects what is running 'live' within environments**
+> ⚠️ **We treat  the master / main branch as our source of truth and it reflects what is running 'live' within environments**
 
 A pull request should only be created when the feature branch, etc intended for merging is deemed ready for use.
 
